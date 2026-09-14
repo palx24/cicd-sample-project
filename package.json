@@ -1,6 +1,10 @@
 {
-  "name": "cicd-sample-project",
+  
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
   "scripts": {
-  "start": "node app.js",
-  "test": "jest"}
+    "test": "jest"
+  }
+
 }
