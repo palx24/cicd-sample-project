@@ -1,0 +1,6 @@
+{
+  "name": "cicd-sample-project",
+  "scripts": {
+  "start": "node app.js",
+  "test": "jest"}
+}
